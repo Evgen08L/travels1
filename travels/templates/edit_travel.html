@@ -1,0 +1,13 @@
+{% extends 'base.html' %}
+{% block content %}
+<h2>Edit Travel</h2>
+<form method="POST" action="">
+    {{ form.hidden_tag() }}
+    {{ form.destination.label }} {{ form.destination(size=20) }}<br>
+    {{ form.start_date.label }} {{ form.start_date(size=10) }}<br>
+    {{ form.end_date.label }} {{ form.end_date(size=10) }}<br>
+    {{ form.budget.label }} {{ form.budget(size=10) }}<br>
+    {{ form.services.label }} {{ form.services(size=50) }}<br>
+    {{ form.submit() }}
+</form>
+{% endblock %}

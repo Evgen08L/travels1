@@ -1,0 +1,81 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mykyta Smolenskyi\\Desktop\\travels\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C547EE2-C359-415D-AAF5-FAC164EBA541}|travels\\travels.pyproj|C:\\Users\\Mykyta Smolenskyi\\Desktop\\travels\\travels\\app.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3C547EE2-C359-415D-AAF5-FAC164EBA541}|travels\\travels.pyproj|solutionrelative:travels\\app.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C547EE2-C359-415D-AAF5-FAC164EBA541}|travels\\travels.pyproj|C:\\Users\\Mykyta Smolenskyi\\Desktop\\travels\\travels\\models.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3C547EE2-C359-415D-AAF5-FAC164EBA541}|travels\\travels.pyproj|solutionrelative:travels\\models.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C547EE2-C359-415D-AAF5-FAC164EBA541}|travels\\travels.pyproj|C:\\Users\\Mykyta Smolenskyi\\Desktop\\travels\\travels\\forms.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3C547EE2-C359-415D-AAF5-FAC164EBA541}|travels\\travels.pyproj|solutionrelative:travels\\forms.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "forms.py",
+              "DocumentMoniker": "C:\\Users\\Mykyta Smolenskyi\\Desktop\\travels\\travels\\forms.py",
+              "RelativeDocumentMoniker": "travels\\forms.py",
+              "ToolTip": "C:\\Users\\Mykyta Smolenskyi\\Desktop\\travels\\travels\\forms.py",
+              "RelativeToolTip": "travels\\forms.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-07-11T05:31:58.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "models.py",
+              "DocumentMoniker": "C:\\Users\\Mykyta Smolenskyi\\Desktop\\travels\\travels\\models.py",
+              "RelativeDocumentMoniker": "travels\\models.py",
+              "ToolTip": "C:\\Users\\Mykyta Smolenskyi\\Desktop\\travels\\travels\\models.py",
+              "RelativeToolTip": "travels\\models.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-07-11T05:31:00.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "app.py",
+              "DocumentMoniker": "C:\\Users\\Mykyta Smolenskyi\\Desktop\\travels\\travels\\app.py",
+              "RelativeDocumentMoniker": "travels\\app.py",
+              "ToolTip": "C:\\Users\\Mykyta Smolenskyi\\Desktop\\travels\\travels\\app.py",
+              "RelativeToolTip": "travels\\app.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-07-11T05:30:47.828Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1372,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

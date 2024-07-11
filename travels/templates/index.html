@@ -1,0 +1,28 @@
+{% extends 'base.html' %}
+{% block content %}
+<h2>Travel List</h2>
+<table>
+    <tr>
+        <th>Destination</th>
+        <th>Start Date</th>
+        <th>End Date</th>
+        <th>Budget</th>
+        <th>Services</th>
+        <th>Actions</th>
+    </tr>
+    {% for travel in travels %}
+    <tr>
+        <td>{{ travel.destination }}</td>
+        <td>{{ travel.start_date }}</td>
+        <td>{{ travel.end_date }}</td>
+        <td>{{ travel.budget }}</td>
+        <td>{{ travel.services }}</td>
+        <td>
+            <a href="{{ url_for('edit_travel', travel_id=travel.id) }}">Edit</a>
+            <a href="{{ url_for('delete_travel', travel_id=travel.id) }}">Delete</a>
+        </td>
+    </tr>
+    {% endfor %}
+</table>
+<a href="{{ url_for('add_travel') }}">Add New Travel</a>
+{% endblock %}
